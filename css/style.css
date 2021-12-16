@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(75, 138, 255);
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+#msg {
+    color: black;
+    font-size: 1.5rem;
+}
+
+section {
+    background-color: white;
+    height: 62vh;
+    width: 40vw;
+    border-radius: 20px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
+}
+
+img {
+    display: flex;
+    height: 60vh;
+    margin: 0 auto;
+}
